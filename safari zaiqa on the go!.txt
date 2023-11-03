@@ -1,0 +1,24 @@
+Demand:
+Target Audience: Office Employees, Working People, Home Chefs, Travelers, Food Packers
+Competitors: Food Panda, Krave Mart, EatOye and similar
+Strengths:
+Weaknesses:
+Opportunities:
+Threats:
+Name: Safari Zaiqa
+UVP: Safar k Rang, Zaiqy k Sang!
+Concept:
+Feature List:
+UI/UX:
+Tech Stack:
+Team:
+Development:
+Testing:
+Security:
+Payment Integration:
+Testing:
+Feedback:
+Launch:
+Marketing:
+Scaling:
+Maintenance:
